@@ -1,0 +1,25 @@
+.temperature{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    margin: 10px;
+}
+
+.temperature .title{
+    color: darkblue;
+    font-weight: bold;
+}
+
+.temperature .body{
+    color: white;
+    font-weight: bold;
+}
+
+.week-temperature{
+    display: flex;
+    flex-direction: row;
+}
+
+
